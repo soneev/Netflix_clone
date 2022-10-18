@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:netflix/core/colors/colors.dart';
 import 'package:netflix/presentation/downloads/widgets/screen_downloads.dart';
+import 'package:netflix/presentation/fast_laugh/fast_laugh.dart';
 import 'package:netflix/presentation/home/screen_home.dart';
 import 'package:netflix/presentation/mainpagae/widgets/bottom_nav.dart';
-import 'package:netflix/presentation/mainpagae/widgets/fast_laugh/fast_laugh.dart';
-import 'package:netflix/presentation/mainpagae/widgets/search/search.dart';
+
+import 'package:netflix/presentation/search/search.dart';
 import 'package:netflix/presentation/new_and_hot/screen_new_hot.dart';
 
 class ScreenMainPage extends StatelessWidget {
